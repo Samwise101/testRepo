@@ -11,6 +11,7 @@ public:
     ~MyClass() {
         std::cout << "Destructor invoked!" << '\n';
     }
+
 };
 
 int main() {
